@@ -114,11 +114,7 @@ JOOD_web/
 
 [![GitHub](https://img.shields.io/badge/GitHub-m4aram-black?style=flat-square&logo=github)](https://github.com/m4aram)
 
----
 
-## 📄 License
-
-This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
 
 ---
 
